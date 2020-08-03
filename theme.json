@@ -1,0 +1,26 @@
+{
+	"palette": {
+		"type": "dark",
+		"primary": {
+			"light": "#757ce8",
+			"main": "58a5f0",
+			"dark": "#004c8c",
+			"contrastText": "#BDBDBD"
+		},
+		"secondary": {
+			"light": "#91d0ef",
+			"main": "#5f9fbc",
+			"dark": "#2b718c",
+			"contrastText": "#000000"
+		},
+		"background": {},
+		"common": {}
+	},
+	"typography": {
+		"fontSize": 13,
+		"fontWeightLight": 700,
+		"fontWeightRegular": 700,
+		"fontWeightMedium": 800,
+		"fontWeightBold": 1500
+	}
+}

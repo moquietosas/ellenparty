@@ -1,0 +1,45 @@
+{
+	"root": {
+		"width": "100%"
+	},
+	"head": {
+		"boxShadow": "none",
+		"color": "rgb(99, 18, 176)"
+	},
+	"body": {
+		"outline": "none"
+	},
+	"table": {
+		"minWidth": 350
+	},
+	"txfee": {
+		"fontSize": "9px"
+	},
+	"row": {
+		"flex": 1,
+		"height": 53
+	},
+	"container": {
+		"overflow": "hidden",
+		"backgroundColor": "rgba(5, 61, 236, 0.1)"
+	},
+	"behavior": {
+		"rows": 6,
+		"minRows": 6,
+		"intervalTime": {
+			"minValue": 1,
+			"maxValue": 3
+		},
+		"currency": {
+			"minValue": 0,
+			"maxValue": 3,
+			"code": "btc"
+		}
+	},
+	"fromWidth": 200,
+	"receivedWidth": 60,
+	"depositedWidth": 75,
+	"txhashWidth": 260,
+	"blockWidth": 120,
+	"txfeeWidth": 80
+}
